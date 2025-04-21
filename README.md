@@ -70,8 +70,8 @@ for epoch in range(epochs):
 
 ### Predictions 
 
-![Uploading ஸ்கிரீன்ஷாட் 2025-04-21 111424.png…]()
 
+![ஸ்கிரீன்ஷாட் 2025-04-21 111424](https://github.com/user-attachments/assets/dd777064-4680-4cd2-bb25-881b449ea2f6)
 
 
 ## Result
